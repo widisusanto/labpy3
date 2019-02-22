@@ -38,34 +38,55 @@ Mencari Bilangan Random, yang terhenti jika ketik angka 0
 
 Algoritma
 
-Max = 0 // variabel akhir random 0
-While True // Perulangan Jika Benar
-a = int(input("Masukan bilangan")) // untuk mengambil data dari integer dalam input yang akan dirandom
-if max <a // jika si max lebih kecil dari a ia akan berhenti
-if a ==0: // jika a == 0 dia berhenti memanggil
-break // jika sudah dipanggil ia akan berhenti
-print('bilangan paling besar : ',max)
-Codingan
+1.Max = 0 // variabel akhir random 0
 
-koding_2
+2.While True // Perulangan Jika Benar
+
+3.a = int(input("Masukan bilangan")) // untuk mengambil data dari integer dalam input yang akan dirandom
+
+4.if max <a // jika si max lebih kecil dari a ia akan berhenti
+
+5.if a ==0: // jika a == 0 dia berhenti memanggil
+
+6.break // jika sudah dipanggil ia akan berhenti
+
+7.print('bilangan paling besar : ',max)
+
+
+
+
+
 
 >Tampilan Setelah RUN
 
-run_2
+
+
+
 
 Menghitung laba Perusahaan dengan modal Rp 100.000.000
 
 Algoritma
 
-a = 100.000.000 // variabel awalnya adalah 100000000
-for i in range(1,9) // untuk membuat huruf i dengan jarak (1,9)
-if(x>=1 and x<=2):- // jika x lebih besar = 1 dan kecil dari 2 ia akan menghasilkan bilangan seperti b=a*0
-total=a+b+c+c+d+d+d+e // ini adalah hasilnya .
-print("\nTotal :",total) // untuk mengetahui hasil
+1.a = 100.000.000 // variabel awalnya adalah 100000000
+
+2.for i in range(1,9) // untuk membuat huruf i dengan jarak (1,9)
+
+3.if(x>=1 and x<=2):- // jika x lebih besar = 1 dan kecil dari 2 ia akan menghasilkan bilangan seperti b=a*0
+
+4.total=a+b+c+c+d+d+d+e // ini adalah hasilnya .
+
+5.print("\nTotal :",total) // untuk mengetahui hasil
+
+
+
 Codingan
 
 koding_3
 
 >Tampilan Setelah RUN
+
+
+
+
 
 run_3
