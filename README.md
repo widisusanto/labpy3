@@ -30,9 +30,10 @@ Seperti ini algoritmanya
 
 >Tampilan Setelah RUN
 
+![coding 1 setelah run](https://user-images.githubusercontent.com/46749088/53247460-07a2d280-36e6-11e9-9f47-3f55b3ac7c82.png)
 
 
-run_1
+
 
 Mencari Bilangan Random, yang terhenti jika ketik angka 0
 
