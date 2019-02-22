@@ -3,18 +3,28 @@ Mencari Bilangan Random Yang Bersifat N : 5
 
 Seperti ini algoritmanya
 
-import random :: Untuk mengambil bilangan random,
-N = int(input("Masukan nilai N : ")) // menangkap variabel dengan huruf N, dan mendata untuk integer
-for i in range(n) // mengulang sebuah bilang i dengan variabel yg sudah ada
-b = random.uniform(0.0,0.5) // membuat bilangan random yang menghasilkan 0.0 s/d 0.5
-print ("Data ke : ",a,"==>",b) ,, print data ke : a = index looping b = angka random yang sudah di buat varibelnya
-print("Selesai") // membuat kata akhir setelah dikerjakan yang akan muncul " Hasil"
-while jawab == "lanjutkan" // itu menandakan bahwa perulangan terjadi 8._ Hitung +=1 // itu mengubah atau menambahkan dari bilangan hitung = 0
-if jawab == "lanjuttkan" : // hanya jika menjawab bilangan
-break // untuk berrhenti jika ada syntax yang ia berikan.
-Codingan
+1.import random :: Untuk mengambil bilangan random,
 
-koding_1
+2.N = int(input("Masukan nilai N : ")) // menangkap variabel dengan huruf N, dan mendata untuk integer
+
+3.for i in range(n) // mengulang sebuah bilang i dengan variabel yg sudah ada
+
+4.b = random.uniform(0.0,0.5) // membuat bilangan random yang menghasilkan 0.0 s/d 0.5
+
+5.print ("Data ke : ",a,"==>",b) ,, print data ke : a = index looping b = angka random yang sudah di buat varibelnya
+
+6.print("Selesai") // membuat kata akhir setelah dikerjakan yang akan muncul " Hasil"
+
+7.while jawab == "lanjutkan" // itu menandakan bahwa perulangan terjadi 8._ Hitung +=1 // itu mengubah atau menambahkan dari bilangan hitung = 0
+
+8.if jawab == "lanjuttkan" : // hanya jika menjawab bilangan
+
+9.break // untuk berrhenti jika ada syntax yang ia berikan.
+
+
+
+
+
 
 >Tampilan Setelah RUN
 
