@@ -88,6 +88,8 @@ koding_3
 
 
 
+![coding3 setelan run](https://user-images.githubusercontent.com/46749088/53248490-708b4a00-36e8-11e9-8a71-156b7b8022a4.png)
+
 
 
 run_3
