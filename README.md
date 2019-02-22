@@ -55,7 +55,7 @@ Algoritma
 
 
 
-
+![coding sebelum ran](https://user-images.githubusercontent.com/46749088/53248438-52bde500-36e8-11e9-957e-370558143842.png)
 
 >Tampilan Setelah RUN
 
