@@ -24,9 +24,13 @@ Seperti ini algoritmanya
 
 
 
+![coding 1 sebelum run](https://user-images.githubusercontent.com/46749088/53244822-8a279400-36de-11e9-8a6d-6269e29ac059.png)
+
 
 
 >Tampilan Setelah RUN
+
+
 
 run_1
 
