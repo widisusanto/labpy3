@@ -80,10 +80,9 @@ Algoritma
 
 
 
-Codingan
 
-koding_3
 
+![coding3 sblum run](https://user-images.githubusercontent.com/46749088/53248480-69643c00-36e8-11e9-87e6-002d66b4610f.png
 >Tampilan Setelah RUN
 
 
