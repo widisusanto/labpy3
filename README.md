@@ -1,4 +1,6 @@
 #labpy3
+
+
 Mencari Bilangan Random Yang Bersifat N : 5
 
 Seperti ini algoritmanya
