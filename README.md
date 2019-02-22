@@ -60,7 +60,7 @@ Algoritma
 
 >Tampilan Setelah RUN
 
-
+![coding setelah run pc](https://user-images.githubusercontent.com/46749088/53248460-61a49780-36e8-11e9-9798-4d3c6a426731.png)
 
 
 
